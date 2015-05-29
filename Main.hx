@@ -8,7 +8,7 @@ import yahoo.PlaceFinder;
  * 2012 Jonas Malaco Filho
  */
 
-class Geocoding {
+class Main {
 	
 	inline static var yahooAPIid = '';  // TODO read from somewhere
 
